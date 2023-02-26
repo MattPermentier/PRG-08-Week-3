@@ -27,7 +27,7 @@ function speak(text) {
   }
 }
 
-window.addEventListener("load", () => {
+window.addEventListener("load", (event) => {
   speak("Maak een foto van een Dopper of een scheerapparaat");
 });
 
