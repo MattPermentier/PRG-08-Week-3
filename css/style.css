@@ -1,0 +1,16 @@
+h2 {
+  font-family: arial;
+}
+.imageInput {
+  width: 100%;
+}
+.imageResult {
+  font-family: arial;
+  width: 100%;
+  text-transform: uppercase;
+}
+.uploadedImage {
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+}
